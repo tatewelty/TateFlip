@@ -1,0 +1,7 @@
+## Interface: 120001
+## Title: TateFlip
+## Notes: Auction House Vendor Helper
+## Author: Tate Welty
+## Version: 1.0.0
+
+TateFlip.lua
